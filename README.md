@@ -5,7 +5,7 @@ An executive-level interactive Excel dashboard analyzing **1M+ rows** of multi-p
 ---
 
 ### 🖼️ Dashboard Preview
-![Quick Commerce Dashboard](Quick%20Commerce%20Dashboard.jpg)
+![Quick Commerce Dashboard](Quick%20Commerce%20Dashboard.png)
 
 ---
 
